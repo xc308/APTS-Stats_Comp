@@ -1,1 +1,1 @@
-# APTS-Stats_Comp
+# APTS-Stats_CompAPTS statisical computing
